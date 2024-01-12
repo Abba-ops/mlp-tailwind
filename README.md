@@ -1,21 +1,7 @@
-# Manage Landing Page
+# Tailwind CSS Learning Project
 
-[Live Demo](https://gentle-axolotl-8a824c.netlify.app/)
+Developed while mastering Tailwind CSS for building modern and utility-first responsive web designs.
 
-![Manage Landing Page](https://i.ibb.co/NjJKY6p/manage.png)
+![Project Screenshot](https://i.ibb.co/NjJKY6p/manage.png)
 
-## Introduction
-
-The Manage Landing Page repository contains a website developed for educational purposes. This website was constructed using HTML and Tailwind CSS, serving as a practical example of using these technologies to create an engaging landing page.
-
-## Setup
-
-To view the website locally, follow these steps:
-
-1. Install the dependencies by running the following command:
-
-    ```shell
-    npm install
-    ```
-
-2. Use the "Live Server" extension in Visual Studio Code (VSCode) to run the website.
+Live Preview: [Check it out here](https://gentle-axolotl-8a824c.netlify.app/)
